@@ -10,9 +10,9 @@
 ## Происхождение наборов данных
 Для анализа использовались два набора данных, предоставленные на платформе Kaggle, которая предлагает широкий выбор публичных материалов для анализа данных.
 
-- [IMDb Dataset of Top 1000](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows): включает информацию о 1000 наиболее рейтинговых фильмов по версии IMDb.
+- [IMDB Movies Dataset by Harshit Shankhdhar](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows): включает информацию о 1000 наиболее рейтинговых фильмов по версии IMDb.
 
-- [IMDb Movies Dataset](https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data?resource=download): содержит данные о 10,000 фильмах базы данных IMDb.
+- [IMDb Movies Dataset by Aman Barthwal](https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data?resource=download): содержит данные о 10,000 фильмах базы данных IMDb.
 
 ## Описание данных
 В рамках исследования использовались два датасета:
