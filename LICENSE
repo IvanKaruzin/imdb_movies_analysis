@@ -1,3 +1,4 @@
+# License for the Project
 MIT License
 
 Copyright (c) 2024 Ivan Karuzin
@@ -19,3 +20,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# License for Datasets Used
+This project incorporates datasets provided under the following licenses:
+
+1. **Dataset: IMDB Movies Dataset**  
+   - Author(s): Harshit Shankhdhar 
+   - License: CC0 1.0 Universal (Public Domain Dedication)  
+   - Description: This dataset is available for use without restrictions under the CC0 license.  
+   - Source: https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows 
+
+2. **Dataset: IMDB Movies Dataset**  
+   - Author(s): Mark Otto, Andrew Fong 
+   - License: MIT License  
+   - Copyright (c) 2013 Mark Otto, 2017 Andrew Fong 
+   - Source: https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data/data 
+
+# Acknowledgments
+We acknowledge the authors and organizations who provided the datasets under open licenses. Their contributions have made this project possible.
